@@ -15,12 +15,6 @@
 **Build Tool:** Vite
 **Version Control:** Git & GitHub
 
-## 🚀 Live Demo
-
-Add your deployed project link here:
-
-**Live Demo:** https://backroundchanger.netlify.app/
-
 ## 📂 Project Structure
 
 ```text
